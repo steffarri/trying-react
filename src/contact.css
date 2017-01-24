@@ -1,0 +1,40 @@
+#first_, #last_
+{
+    border-style: solid;
+    border-color: black;
+}
+
+
+@media screen and (max-width: 2600px) { 
+#results
+{
+    border-style: solid;
+    border-color: deeppink;
+    height: 100px;
+    width: 300px;
+    margin-left: 1130px;
+}
+}
+@media screen and (max-width: 1800px) { 
+#results
+{
+    border-style: solid;
+    border-color: deeppink;
+    height: 100px;
+    width: 300px;
+    margin-left: 20px;
+    display: inline-block;
+}
+}
+@media screen and (max-width: 1700px) { 
+#results
+{
+    border-style: solid;
+    border-color: deeppink;
+    height: 60px;
+    width: 200px;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+}

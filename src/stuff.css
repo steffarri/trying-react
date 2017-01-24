@@ -1,0 +1,225 @@
+#button
+{
+    color: deeppink;
+    border: deeppink;
+    border-style: dashed;
+    border-width: 3px;
+    background-color: black;
+    width: 60px;
+    height: 40px;
+}
+
+
+
+
+@media screen and (max-width: 2600px) { 
+   
+
+#firstdiv
+{
+    
+    border-color: deeppink;
+    border: dotted;
+    height: 400px;
+    width: 400px;
+    margin-left: -660px;
+    display:inline-block;
+
+
+}
+
+#seconddiv
+{
+    border-color: deeppink;
+    border: dotted;
+    height: 300px;
+    width: 300px;
+    margin-left: 230px;
+    display:inline-block;
+    
+    
+}
+
+#secondsecond
+{
+    margin-top: 410px;
+    height: 300px;
+    width: 300px;
+    border-color: deeppink;
+    border: dotted;
+    margin-left: -305px;
+   display:inline-block;
+   position: absolute;
+    
+}
+
+#thirddiv
+{
+    
+    border-color: deeppink;
+    border: dotted;
+    height: 400px;
+    width: 400px;
+    
+    display:inline-block;
+    
+    
+   
+}
+
+#sub
+{
+    margin-top:-395px;
+    margin-left: 1250px;
+}
+
+#parent
+{
+    display: flex;
+    display:inline-block;
+    margin-top: 50px;
+    
+
+}
+
+
+
+}
+
+
+
+
+
+@media screen and (max-width: 1800px) { 
+   
+
+
+#firstdiv
+{
+    border-color: deeppink;
+    border: dotted;
+    height: 400px;
+    width: 300px;
+    margin-left: -550px;
+    display:inline-block;
+
+
+}
+
+#seconddiv
+{
+    margin-top: 30px;
+    border-color: deeppink;
+    border: dotted;
+    height: 200px;
+    width: 200px;
+    margin-left: 240px;
+    display:inline-block;
+  
+    
+    
+    
+}
+
+#secondsecond
+{
+    margin-top: 320px;
+    height: 200px;
+    width: 200px;
+    border-color: deeppink;
+    border: dotted;
+    margin-left: -205px;
+    display:inline-block;
+    
+   
+}
+
+#thirddiv
+{
+    border-color: deeppink;
+    border: dotted;
+    height: 400px;
+    width: 300px;
+    margin-left: -270px;
+    display:inline-block;
+    margin-top: -80px;
+    
+   
+}
+
+#parent
+{
+    display: flex;
+    display:inline-block;
+  
+
+}
+
+
+}
+@media screen and (max-width: 1700px) { 
+   
+
+
+#firstdiv
+{
+    border-color: deeppink;
+    border: dotted;
+    height: 200px;
+    width: 200px;
+    margin-left: -550px;
+    display:inline-block;
+
+
+}
+
+#seconddiv
+{
+    margin-top: -150px;
+    border-color: deeppink;
+    border: dotted;
+    height: 100px;
+    width: 100px;
+    margin-left: 90px;
+    display:inline-block;
+    
+    
+}
+
+#secondsecond
+{
+    margin-top: 210px;
+    height: 100px;
+    width: 100px;
+    border-color: deeppink;
+    border: dotted;
+    margin-left: -105px;
+    display:inline-block;
+    
+   
+}
+
+#thirddiv
+{
+    margin-top: 180px;
+    border-color: deeppink;
+    border: dotted;
+    height: 200px;
+    width: 200px;
+    margin-left: -670px;
+    display:inline-block;
+    
+   
+}
+
+#parent
+{
+    margin-top: -855px;
+    display: flex;
+    display:inline-block;
+    
+  
+
+}
+}
+
